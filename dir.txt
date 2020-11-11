@@ -1,0 +1,10 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 046D-B544
+
+ Directory of C:\Users\Acer\Latihan\Project03
+
+11/11/2020  19:45    <DIR>          .
+11/11/2020  19:45    <DIR>          ..
+11/11/2020  19:45                 0 dir.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  64.041.533.440 bytes free
